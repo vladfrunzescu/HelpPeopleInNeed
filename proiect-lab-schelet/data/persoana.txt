@@ -1,0 +1,3 @@
+296450030;frunzescu;a;a;a;BRASOV;a;a;a
+62646252;b;b;b;b;CLUJ;b;b;b
+929977975;c;c;c;c;BRASOV;c;c;c
